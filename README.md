@@ -25,5 +25,7 @@ See `docs/architecture.md`
 ## Deployment
 Infrastructure is provisioned using Bicep templates located in `infrastructure/`.
 
+![System Architecture](./assets/architecture.png)
+
 ## Author
 Rupali Singh
